@@ -1,4 +1,4 @@
-# 🌍 Climate Change & Environmental Impact Analysis Dashboard (Power BI)
+# Climate Change & Environmental Impact Analysis Dashboard (Power BI)
 
 ## Project Overview
 This project is an interactive **Climate Change Analytics Dashboard** developed using Microsoft Power BI.  
